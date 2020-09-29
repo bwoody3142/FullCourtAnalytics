@@ -1,8 +1,8 @@
 Josh showed us how he wanted the website to function and look. We talked about our schedule together for the duration of the project. We also discussed our goals for the project. 
 
-![Back End Artifact]("BackEndPage.png")
-![Play by Play Page]("PlayByPlayView.png")
-![Shot Chart]("ShotChart.png")
+![Back End Artifact](BackEndPage.png)
+![Play by Play Page](PlayByPlayView.png)
+![Shot Chart](ShotChart.png)
 
 
 <strong>Introductory info:</strong>
