@@ -1,9 +1,5 @@
 Josh showed us how he wanted the website to function and look. We talked about our schedule together for the duration of the project. We also discussed our goals for the project. 
 
-![Back End Artifact](BackEndPage.png)
-![Play by Play Page](PlayByPlayView.png)
-![Shot Chart](ShotChart.png)
-
 
 <strong>Introductory info:</strong>
 - AAU/High School Basketball
@@ -56,6 +52,12 @@ Josh showed us how he wanted the website to function and look. We talked about o
    - Josh will send us a priority list
    - Josh will send a formula sheet for calculating certain stats
    - Next Meeting Tuesday, October 6th at 5:30pm
+   
+   
+   
+   ![Back End Artifact](BackEndPage.png)
+   ![Play by Play Page](PlayByPlayView.png)
+   ![Shot Chart](ShotChart.png)
 
 
 
