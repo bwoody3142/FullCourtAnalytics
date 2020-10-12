@@ -17,7 +17,7 @@
 
     > Once the website is reached you will be viewing the home page, from here you can press the 'Sign Up' button to make a new account
 
-    > Connect to BR
+    > BR1
 
 - UC2 - Change Password
     > A customer/admin will need to be able to change their password from the login screen 
@@ -26,7 +26,7 @@
 
     > Once you are on the login in screen you click on 'Forgot Password?' to redirect you to a page where you can start the process of changing your password
 
-    > Connect to BR
+    > BR1
 
 - UC3 - Edit Account Information
     > A new user will need to be able to enter in their account information. Also, any user at anytime should be able to edit anything related to their account. An admin user should also be able to edit their account info. 
@@ -35,7 +35,7 @@
      
     > From the team's home page click on the 'My Account' tab to be redirected to your team's account info
 
-    > Connect to BR
+    > BR1
 
 - UC4 - Create Team Roster and Starting Lineup
     > A new team will need to create a roster and starting lineup. 
@@ -44,7 +44,7 @@
 
     > From the team's home page, click the 'My Team' tab and from there if you don't already have a team roster, you can press the 'Create Team Roster' button
 
-    > Connect to BR
+    > BR2
 - UC5 - Edit Team Roster/Starting Lineup
     > An already existing team will need to be able to add/remove players from the roster and starting lineup
 
@@ -52,7 +52,7 @@
 
     > From the team's home page, click the 'My Team' tab and from there you can edit/view your team roster/starting lineup
 
-    > Connect to BR
+    > BR2
 - UC6 - Upload a video to the website
     > A team will need to be able to submit game film so that admin users can break apart the game and provide statistical analysis. 
 
@@ -60,7 +60,7 @@
 
     > On the team's home page press the 'Uplaod a Game' button to be redirected to  page where you will upload an mp4 file
 
-    > Connect to BR
+    > BR4
 
 - UC7 - Watch any game in full or in play-by-play option
     > A customer will need to be able to watch a game, game clip, or any set of fitered game clips
@@ -69,7 +69,7 @@
 
     > From the home page click on the game that you want to watch and you will be redirected to a playback page where you can watch your game in full or play-by-play 
 
-    > Connect to BR    
+    > BR4    
 
 - UC8 - View generated full game report 
     > After an admin "breaks apart" your team's game you will be given a full game report including all necessary stats. 
@@ -78,7 +78,7 @@
 
     > While watching a game's playback, you can click on 'View Full Game Report' to se the full game report
 
-    > Connect to BR
+    > BR3
 - UC9 - View player's/team's overall or single game statistics
     > A customer will need to be able to view the team's stats for a specific game, set of games, or for the whole season. 
 
@@ -86,7 +86,8 @@
 
     > From the team's home page, you can click the 'Team Statistics' button to redirect you to page the shows a list of games in a table with the stats for that game. The table will also have a row for the entire current season. Under that table wil be another table that shows all of the player's season stats.
 
-    > Connect to BR  
+    > BR3 
+
 - UC10 - View shot charts for season or for single game
     > A customer will need to view where each shot in a game/season was taken and also be able to see how efficient that area on the court the team/player is shooting
 
@@ -94,7 +95,7 @@
 
     > When viewing a team's or player's stats you can click on 'See Shot Chart' to view the show chart for that specifc game or set of games for the player or team 
 
-    > Connect to BR
+    > BR3
 
 - UC11 - Annotate Game 
     > An admin user will watch and annotate a full basketball game, to create statistics for that specific game. 
@@ -103,4 +104,4 @@
 
     > From admin home page, click on a game that has a status of 'Pending'. From there you will be redirected to a page where you can start annotating and breaking apart the game. 
 
-    > Connect to BR
+    > BR5
