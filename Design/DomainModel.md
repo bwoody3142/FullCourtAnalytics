@@ -1,5 +1,8 @@
 # Domain Model
 
+
+![Domain Model](DomainModel.png)
+
 - Account
     > This class will have account information, like username, email, password, etc.
 - Team
@@ -28,6 +31,8 @@
     > This class will hold all of the different types of statistic types that FCA provides. 
 - StatsFilter
     > This class will hold all of the different types of filter types that FCA provides.
+- Game
+    > This class will hold game stats, both teams, box score, game report, etc.
 - AnnotatedGame
     > This class will hold game clips, a raw video of a full game, a play-by-play view, etc.
 - GameAnnotator
