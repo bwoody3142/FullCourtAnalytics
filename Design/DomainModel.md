@@ -1,7 +1,7 @@
 # Domain Model
 
 
-![Domain Model](DomainModel.png)
+![Domain Model](..\AuxiliaryFiles\DomainModel.png)
 
 - Account
     > This class will have account information, like username, email, password, etc.
