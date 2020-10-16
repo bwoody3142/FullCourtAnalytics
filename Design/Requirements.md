@@ -25,7 +25,7 @@
     - FR 19 - There needs to be a “start clip” and “end clip” buttons. When a possession or play is started, the Admin should be able “start clip” and at the end of the play hit “end clip” which creates a timestamp for that play. Every posession description should have a timestamp associated with it. 
     - FR 20 - There needs to be an “Home Possession Button” and “Opponent Possession” button. This should be below the start and end clip buttons. One of these two buttons will need to be hit every possession to designate whose possession it was. If “opponent possession” is clicked obviously player buttons will not need to be hit.
 
-    ![BackEndPage](..\AuxiliaryFiles\BackEndPage.png)
+    ![BackEndPage](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/BackEndPage.png)
 - Team Home Page -  **ALL HIGH PRIORITY** (Refers to **BR3**)
     - FR 21 - If you click on a game, it should take you to the Video Playback page for that game. 
     - FR 22 - There needs to be a drop down filter that allows users to filter what games are being shown on the homepage at that time. Filters should include: Newest, Games by Season, Non Conference, Conference, Home and Away. 
@@ -39,9 +39,9 @@
     - FR 28 - On the left hand side, there should be every type of filter that users can sort through like the image below.  -  **HIGH PRIORITY**
     - FR 29 - Video Playback for specific areas on the court -  **LOW PRIORITY**
 
-    ![ShotChart](..\AuxiliaryFiles\ShotChart.png)
-    ![ShotChart1](..\AuxiliaryFiles\ShotChart1.png)
-    ![ShotChart2](..\AuxiliaryFiles\ShotChart2.png)
+    ![ShotChart](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/ShotChart.png)
+    ![ShotChart1](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/ShotChart1.png)
+    ![ShotChart2](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/ShotChart2.png)
 
 - Lineup Page (Refers to **BR3/BR4**)
     - FR 30 - There needs to be an option to select any combination of players as well. There will need to be a filter that shows all the players on the roster. Users can select any combination of players and see that stats for when those players were on the floor at the same time.  -  **HIGH PRIORITY**
@@ -56,7 +56,7 @@
     - FR 38 - There needs to be an “unedited” tab on the page. If a users clicks this, they will be able to watch the full video without any edits or clips. -  **LOW PRIORITY**
     - FR 39 - There needs to be a filter button at the top. This will allow users to select only certain plays to be shown (such as all 3PM or all Half Court Possessions). -  **HIGH PRIORITY**
 
-    ![Lineups Page](..\AuxiliaryFiles\lineups.jpg)
+    ![Lineups Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/lineups.jpg)
 
 
 # Non-Functional Requirements
@@ -86,7 +86,7 @@
     - NR 17 - When the admin publishes a blog post it should be able to be seen by all accounts
 - BackEnd Page -  **ALL HIGH PRIORITY**
     - NR 18 - There needs to be the ability to sub in and sub out players via buttons. When a team submits the game film, as mentioned above, they will select who the five starters of the game were. When a substitution happens in the game, there needs to be a button labeled “substitutions” , this will create a substitution line of code. After the button is clicked, all the players on the roster who are not currently in the game should come up. Admins should then be able to either drag and drop players in and out of the game, or check and uncheck buttons to represent who was subbed in and out.
-    ![BackEndPage](..\AuxiliaryFiles\BackEndPage.png)
+    ![BackEndPage](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/BackEndPage.png)
 - Team Home Page -  **ALL HIGH PRIORITY**
     - NR 19 - Allow teams to see in a list format all of their games uploaded to the site.
 - Stat Center Page -  **ALL HIGH PRIORITY**
@@ -98,9 +98,9 @@
     - NR 24 - Users should be able to export the shot chart out as an image -  **LOW PRIORITY**
     - NR 25 - The shot chart can either be hexagons like below or just standard “o” for makes and “x” for makes. (Users should be able to choose which one they prefer) -  **MEDIUM PRIORITY**
     - NR 26 - Users must be able to change the shot chart view to sections of the court, like the pictures below. -  **HIGH PRIORITY**
-    ![ShotChart](..\AuxiliaryFiles\ShotChart.png)
-    ![ShotChart1](..\AuxiliaryFiles\ShotChart1.png)
-    ![ShotChart2](..\AuxiliaryFiles\ShotChart2.png)
+    ![ShotChart](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/ShotChart.png)
+    ![ShotChart1](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/ShotChart1.png)
+    ![ShotChart2](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/ShotChart2.png)
 - Lineup Page -  **ALL HIGH PRIORITY**
     - NR 27 - Every single possesion description will have the five players on the court associated with it. This is so we can provide stats based on different player combinations. 
     - NR 28 - This page needs to display all the five-man lineups that have played for a team during the season. There will need to be the stats shown for each lineup as well. 
@@ -111,4 +111,4 @@
     - NR 32 - Allow users to share the video via a link -  **MEDIUM PRIORITY**
     - NR 33 - Users can add their own custom tags to the film. -  **LOW PRIORITY**
     - NR 34 - Users can export video clips as MP4 Files (or which format is best) -  **LOW PRIORITY**
-    ![Lineups Page](..\AuxiliaryFiles\lineups.jpg)
+    ![Lineups Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/lineups.jpg)
