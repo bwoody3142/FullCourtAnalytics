@@ -17,6 +17,7 @@ Full Court Analytics
 - Josh Kelly
 
 ## Links
+- [First Iteration Features](https://github.com/bwoody3142/FullCourtAnalytics/projects/1)
 - [Project Description]()
 - [Team Meeting Minutes]()
 - [Mentor Meeting Minutes]()
