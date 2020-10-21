@@ -1,7 +1,7 @@
 # Domain Model
 
 
-![Domain Model](..\AuxiliaryFiles\DomainModel.png)
+![Domain Model](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/DomainModel.png)
 
 - Account
     > This class will have account information, like username, email, password, etc.
