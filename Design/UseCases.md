@@ -105,3 +105,6 @@
     > From admin home page, click on a game that has a status of 'Pending'. From there you will be redirected to a page where you can start annotating and breaking apart the game. 
 
     > BR1
+
+- UC12 - Pay for a subscription 
+    > When a customer is signing up for FCA, they will asked to pay for a specifc tier of a subscription. Allowing them to have more/less features. 
