@@ -108,3 +108,6 @@
 
 - UC12 - Pay for a subscription 
     > When a customer is signing up for FCA, they will asked to pay for a specifc tier of a subscription. Allowing them to have more/less features. 
+    > Actor: Customer
+    > When signing uo for FCA, you will need to choose and pay for a certain level of subscription.
+    > BR2
