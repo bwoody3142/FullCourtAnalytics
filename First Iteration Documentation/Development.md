@@ -7,7 +7,7 @@ This document explains how to replicate and successfully run the program using D
   
 ### Cloning the Repository 
 * Clone this repository by using the following command:
- *  `git clone https://github.com/bwoody3142/FullCourtAnalyticsSrc.git`
+  * `git clone https://github.com/bwoody3142/FullCourtAnalyticsSrc.git`
  
 ### Testing and Running
 * Using the terminal on your computer (Windows- Windows PowerShell, Mac- ), use the `cd` command to navigate where you cloned the repository to. 
