@@ -4,6 +4,10 @@ This document explains how to replicate and successfully run the program using D
 ### Install Prerequisites
 * Download and Install Docker Desktop (v2.5.0.0 works and has been tested)
   * Follow this link for the download:  <a href="https://www.docker.com/products/docker-desktop" target="_blank">https://www.docker.com/products/docker-desktop</a>
+  * If you have any issues installing Docker, you can use these to guide you:
+    * Windows: [https://docs.docker.com/docker-for-windows/install/](https://docs.docker.com/docker-for-windows/install/)
+    * Mac: [https://docs.docker.com/docker-for-mac/install/](https://docs.docker.com/docker-for-mac/install/)
+  * Once you have Docker Desktop downloaded and installed, run the program on your computer and leave it running while completing the following steps.
   
 ### Cloning the Repository 
 * Clone this repository by using the following command:
