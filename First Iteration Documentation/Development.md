@@ -14,7 +14,7 @@ This document explains how to replicate and successfully run the program using D
   * `git clone https://github.com/bwoody3142/FullCourtAnalyticsSrc.git`
  
 ### Testing and Running
-* Using the terminal on your computer (Windows- Windows PowerShell, Mac- ), use the `cd` command to navigate where you cloned the repository to. 
+* Using the terminal on your computer, use the `cd` command to navigate where you cloned the repository to on your computer. 
 * After locating the folder named "FullCourtAnalyticsSrc", then use the `cd fca` command to view the fca folder. 
 * Then, use the command `docker build -t fca .`
 * After it is finished building, use the command `docker run -p 3000:3000 -d fca`
