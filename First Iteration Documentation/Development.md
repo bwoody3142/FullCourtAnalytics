@@ -15,6 +15,7 @@ This document explains how to replicate and successfully run the program using D
 * Then, use the command `docker build -t fca .`
 * After it is finished building, use the command `docker run -p 3000:3000 -d fca`
 * Then, go to your browser (Google Chrome, FireFox, or Microsoft Edge), type in `localhost3000` in the search bar. 
+* The react app should start and you will be able to browse the webpage. To use the website, checkout the user manual at: <a href="" target="_blank"></a>
 
  
   
