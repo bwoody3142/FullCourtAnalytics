@@ -1,4 +1,4 @@
-# Full Court Analytics 
+# Full Court Analytics Development (via Docker)
 This document explains how to replicate and successfully run the program using Docker.
 
 ### Install Prerequisites
