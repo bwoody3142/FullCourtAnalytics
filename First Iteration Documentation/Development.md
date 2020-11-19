@@ -15,7 +15,7 @@ This document explains how to replicate and successfully run the program using D
  
 ### Testing and Running
 * Using the terminal on your computer, use the `cd` command to navigate where you cloned the repository to on your computer. 
-* After locating the folder named "FullCourtAnalyticsSrc", then use the `cd fca` command to view the fca folder. 
+* After locating the folder named "FullCourtAnalyticsSrc", then use the `cd fca` command because the Dockerfile is located in the fca folder. 
 * Then, use the command `docker build -t fca .`
 * After it is finished building, use the command `docker run -p 3000:3000 -d fca`
 * Then, go to your browser (Google Chrome, FireFox, or Microsoft Edge), type in `localhost:3000` in the search bar. 
