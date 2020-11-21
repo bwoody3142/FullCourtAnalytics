@@ -1,6 +1,6 @@
 # Full Court Analytics User Manual
 
-- Once you've ran the installation process and run the command [npm start] you should receive the splash page on localhost:3000.
+- Once you've ran the installation process through docker you should receive the splash page on localhost:3000.
 - From here you can proceed to the log in page by hitting "Log In" in the upper right corner.
 If your browser window is smaller than full size you will see this icon. {Icon}
 In the event that you see that icon click it then you will see "Log In".
@@ -28,7 +28,7 @@ In the event that you see that icon click it then you will see "Log In".
 ## Admin
 
 - On the admin page you can access the Video Annotator page. To do this click the Annotate Video button in the top navbar.
-Again if your browser window is smaller than full size you will see this icon.
+Again if your browser window is smaller than full size you will see this icon. {Icon}
 In that event click the icon and the navbar will expand to show you the different options.
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button.  
