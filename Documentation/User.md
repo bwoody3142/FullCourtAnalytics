@@ -15,8 +15,8 @@ In the event that you see that icon click it then you will see "Log In".
 
 ## Team
 
-- There are currently two different features you can access here. Those features being Rosters, and the Upload page.
-- If you would like to enter either page you can click on either "Roster" or "Upload" in the navbar. 
+- There is currently only one feature available on this page and that is Roster access.
+- To access the Roster page click "Roster" on the navbar. 
   Again if your browser window is smaller than full size you will see the icon below. <br>
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/Navbar.png) <br>
 In that event click the icon and the navbar will expand to show you the different options.
@@ -26,6 +26,8 @@ In that event click the icon and the navbar will expand to show you the differen
 
 ## Rosters
 
+- If you would like to go back to the admin page hit the "Back" button. 
+- If you would like to sign out hit the "Sign Out" button.
 
 ## Admin
 
@@ -37,4 +39,8 @@ In that event click the icon and the navbar will expand to show you the differen
 - If you would like to sign out hit the "Sign-Out" button.  
 
 ## Annotate Video
-
+- On the video annotation page you will see 7 different buttons corresponding to different stats in a game. These buttons are 2 point make, 2 point miss, 3 point make, 3 point miss, Rebound, Assist, and Turnover. 
+- Clicking any of these buttons will prompt a red button to pop up to the left side of each position.
+- From here click the player you would like to add the stat total to if you'd like to add more stats to other players you may do so by clicking the button once again. 
+- If you would like to go back to the admin page hit the "Back" button. 
+- If you would like to sign out hit the "Sign Out" button.  
