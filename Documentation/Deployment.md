@@ -25,5 +25,5 @@ Now, using that container id that you copied run `docker stop {container id}`
 
 ## What To Do If You Are Having Problems With Starting You Docker Container
 - View all Docker containers and check to see that your `fca` container is running
-- Check to see if your ports are mapped, to do this view running containers and under ports you should see something similar to this: `0.0.0.0:3000->3000/tcp`
+- Check to see if your ports are mapped, to do this view running containers and under ports you should see something similar to this: `0.0.0.0:3000->3000/tcp` <br><br>
 If either one of the either is not working correctly then you should delete the image and build it up again from the beginning.
