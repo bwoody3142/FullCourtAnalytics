@@ -25,11 +25,11 @@ In that event click the icon and the navbar will expand to show you the differen
 
 
 ## Rosters
-
+- To add a player to the roster, fill out the first name, last name, age, height, weight, grade, and number of the player.
+- Once everything is filled, then click "Add Player", to add them to the roster. 
+- You can add as many players as you'd like. 
 - If you would like to go back to the admin page hit the "Back" button. 
 - If you would like to sign out hit the "Sign Out" button.
-- If you want to add a player to the roster, fill out the first name, last name, age, height, weight, grade, and number of the player.
-- Once everything is filled, then click "Add Player", to add them to the roster. 
 
 ## Admin
 
