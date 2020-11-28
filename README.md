@@ -18,6 +18,7 @@ Full Court Analytics
 
 ## Links
 - [First Iteration Features](https://github.com/bwoody3142/FullCourtAnalytics/projects/1)
+- [Second Iteration Features](https://github.com/bwoody3142/FullCourtAnalytics/projects/2)
 - [Project Description](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/ProjectDescription.md)
 - [Team Meeting Minutes](https://github.com/bwoody3142/FullCourtAnalytics/tree/master/MeetingMinutes/Team)
 - [Mentor Meeting Minutes](https://github.com/bwoody3142/FullCourtAnalytics/tree/master/MeetingMinutes/Mentor)
