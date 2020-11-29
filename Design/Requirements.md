@@ -112,4 +112,6 @@
     - NR 33 - Users can add their own custom tags to the film. -  **LOW PRIORITY**
     - NR 34 - Users can export video clips as MP4 Files (or which format is best) -  **LOW PRIORITY**
     ![Lineups Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/lineups.jpg)
-    - NR 35 - When a customer signs up for FCA they will need to pay subscription fees, the price will vary depending on what features you will want accesss to.  **LOW PRIORTY** Refers to **BR2**)
+- Extra Requirements 
+    - NR 35 - When a customer signs up for FCA they will need to pay subscription fees, the price will vary depending on what features you will want accesss to.  **LOW PRIORTY** Refers to **BR2**
+    - NR 36 - Create a database to store all information necessary. **LOW PRIORTY** Refers to **BR1**
