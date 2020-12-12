@@ -8,9 +8,9 @@ In the event that you see that icon click it then you will see "Log In".
 
 ## Log In
 - From here you will be on the Log in page.
-- There are currently two different accounts available a team account and an admin account. 
+- There are currently two different accounts available a team account and an analyst account. 
 - To access the team account enter: user@fca.com into the email box. Then enter any password you would like then hit Login. Then head to the Team section of this manual.
-- To access the admin account enter: admin@fca.com into the email box. Then enter any password you would like then hit Login. Then head to the Admin section of this manual.
+- To access the analyst account enter: analyst@fca.com into the email box. Then enter any password you would like then hit Login. Then head to the Analyst section of this manual.
 - Depending on what email you put you will be sent to two different pages. 
 
 ## Team
@@ -30,12 +30,12 @@ In that event click the icon and the navbar will expand to show you the differen
 - You can add as many players as you'd like. 
 - A "Remove Player" button will be next to every player you have added to the roster.
 - Click the "Remove Player" button that's next to the player you want delete.
-- If you would like to go back to the admin page hit the "Back" button. 
+- If you would like to go back to the analyst page hit the "Back" button. 
 - If you would like to sign out hit the "Sign Out" button.
 
-## Admin
+## Analyst
 
-- On the admin page you can access the Video Annotator page. To do this click the Annotate Video button in the top navbar.
+- On the analyst page you can access the Video Annotator page. To do this click the Annotate Video button in the top navbar.
 Again if your browser window is smaller than full size you will see the icon below. <br>
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/Navbar.png) <br>
 In that event click the icon and the navbar will expand to show you the different options.
@@ -46,5 +46,5 @@ In that event click the icon and the navbar will expand to show you the differen
 - On the video annotation page you will see 7 different buttons corresponding to different stats in a game. These buttons are 2 point make, 2 point miss, 3 point make, 3 point miss, Rebound, Assist, and Turnover. 
 - Clicking any of these buttons will prompt a red button to pop up to the left side of each position.
 - From here click the player you would like to add the stat total to if you'd like to add more stats to other players you may do so by clicking the button once again. 
-- If you would like to go back to the admin page hit the "Back" button. 
+- If you would like to go back to the analyst page hit the "Back" button. 
 - If you would like to sign out hit the "Sign Out" button.  
