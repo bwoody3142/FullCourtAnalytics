@@ -4,6 +4,7 @@ This document explains how to replicate and successfully run the program using D
 ### Install Prerequisites
 * Download and Install XAMPP (v8.0.0-2 works and has been tested)
   * Follow this link for the download:  <a href="https://www.apachefriends.org/index.html" target="_blank">https://www.apachefriends.org/index.html</a>
+* Once you have XAMPP downloaded and installed, run the program.
 * Download and Install Docker Desktop (v2.5.0.0 works and has been tested)
   * Follow this link for the download:  <a href="https://www.docker.com/products/docker-desktop" target="_blank">https://www.docker.com/products/docker-desktop</a>
   * If you have any issues installing Docker, you can use these to guide you:
