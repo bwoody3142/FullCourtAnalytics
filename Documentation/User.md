@@ -28,6 +28,8 @@ In that event click the icon and the navbar will expand to show you the differen
 - To add a player to the roster, fill out the first name, last name, age, height, weight, grade, and number of the player.
 - Once everything is filled, then click "Add Player", to add them to the roster. 
 - You can add as many players as you'd like. 
+- A "Remove Player" button will be next to every player you have added to the roster.
+- Click the "Remove Player" button that's next to the player you want delete.
 - If you would like to go back to the admin page hit the "Back" button. 
 - If you would like to sign out hit the "Sign Out" button.
 
