@@ -1,7 +1,7 @@
 # Full Court Analytics User Manual
 
 - Once you've ran the installation process through docker you should receive the splash page on localhost:3000.
-![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaSplashAnnotated.png)<br>
+![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaSplash.png)<br>
 - From here you can proceed to the log in page by hitting "Log In" in the upper right corner.
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaSplashAnnotated.png)<br>
 If your browser window is smaller than full size you will see this icon below. <br>
