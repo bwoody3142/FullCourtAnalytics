@@ -19,7 +19,7 @@ In the event that you see that icon click it then you will see "Log In".
 
 - To access the Roster page click "Roster Management" on the navbar. 
 - To access the Upload page click "Upload" on the navbar. 
-![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaTeamHome.PNG)<br>
+![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaTeamHomeAnnotated.png)<br>
   Again if your browser window is smaller than full size you will see the icon below.
   
   
