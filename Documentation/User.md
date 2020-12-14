@@ -2,7 +2,7 @@
 
 - Once you've ran the installation process through docker you should receive the splash page on localhost:3000.
 - From here you can proceed to the log in page by hitting "Log In" in the upper right corner.
-![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaSplashAnnotated.png)<br>
+![Splash Page](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaSplashAnnotated.png)<br>
 If your browser window is smaller than full size you will see this icon below. <br>
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/Navbar.png)<br>
 In the event that you see that icon click it then you will see "Log In".
@@ -13,7 +13,7 @@ In the event that you see that icon click it then you will see "Log In".
 - To access the team account enter: user@fca.com into the email box. Then enter any password you would like then hit Login. Then head to the Team section of this manual.
 - To access the analyst account enter: analyst@fca.com into the email box. Then enter any password you would like then hit Login. Then head to the Analyst section of this manual.
 - Depending on what email you put you will be sent to two different pages. 
-![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaLogin.png)<br>
+![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaLogin.PNG)<br>
 
 ## Team
 
