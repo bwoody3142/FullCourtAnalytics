@@ -17,8 +17,8 @@ In the event that you see that icon click it then you will see "Log In".
 
 ## Team
 
-- There is currently only one feature available on this page and that is Roster access.
 - To access the Roster page click "Roster" on the navbar. 
+- To access the Upload page click "Upload" on the navbar. 
   Again if your browser window is smaller than full size you will see the icon below.
   
   
@@ -36,6 +36,8 @@ In that event click the icon and the navbar will expand to show you the differen
 - Click the "Remove Player" button that's next to the player you want delete.
 - If you would like to go back to the analyst page hit the "Back" button. 
 - If you would like to sign out hit the "Sign Out" button.
+
+## Upload
 
 ## Analyst
 
