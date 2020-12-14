@@ -27,6 +27,7 @@ In the event that you see that icon click it then you will see "Log In".
 In that event click the icon and the navbar will expand to show you the different options.
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button. 
+
 ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaTeamHomeAnnotated2.png)<br>
 
 
