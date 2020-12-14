@@ -5,7 +5,7 @@
 If your browser window is smaller than full size you will see this icon below. <br>
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/Navbar.png)<br>
 In the event that you see that icon click it then you will see "Log In".
-![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/DomainModel.png)
+![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaSplashAnnotated.png)
 
 ## Log In
 - From here you will be on the Log in page.
