@@ -19,7 +19,9 @@ In the event that you see that icon click it then you will see "Log In".
 
 - There is currently only one feature available on this page and that is Roster access.
 - To access the Roster page click "Roster" on the navbar. 
-  Again if your browser window is smaller than full size you will see the icon below. <br>
+  Again if your browser window is smaller than full size you will see the icon below.
+  
+  
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/Navbar.png) <br>
 In that event click the icon and the navbar will expand to show you the different options.
 - If you would like to go back to splash page hit the "Home" button. 
