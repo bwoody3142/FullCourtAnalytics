@@ -15,7 +15,10 @@ You will need to be in the root folder of the project. This will be located at <
 Now, using that container id that you copied run `docker stop {container id}` 
 
 ## Starting/Stopping A Server
-
+- Do the following after launching XAMPP
+  * Hit the "Start" button next to "Apache"
+  * Hit the "Start" button next to "MySQL"
+  * Hit the "Admin" button next to "MySQL" this should open a window in your web browser
 ## Common Docker Commands for Troubleshooting
 - To view all running Docker containers: `docker ps`
 - To view all Docker containers: `docker ps -a`
