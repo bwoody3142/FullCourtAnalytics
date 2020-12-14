@@ -37,8 +37,10 @@ In that event click the icon and the navbar will expand to show you the differen
 - You can add as many players as you'd like. 
 - A "Remove Player" button will be next to every player you have added to the roster.
 - Click the "Remove Player" button that's next to the player you want delete.
+   ![Roster Buttons](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/rosterFunctionButtons.png)<br>
 - If you would like to go back to the analyst page hit the "Back" button. 
 - If you would like to sign out hit the "Sign Out" button.
+  ![Roster Buttons](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/rosterCornerButtons.png)<br>
 
 ## Upload
 
