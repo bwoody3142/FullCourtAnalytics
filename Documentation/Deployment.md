@@ -14,7 +14,7 @@ You will need to be in the root folder of the project. This will be located at <
 - To stop the docker container, simply run `docker ps` and copy the `container id` from the container with image name of `fca`. 
 Now, using that container id that you copied run `docker stop {container id}` 
 
-## Starting/Stopping A Server
+## Starting/Stopping A Server Using XAMPP
 - Do the following after launching XAMPP
   * Hit the "Start" button next to "Apache"
   * Hit the "Start" button next to "MySQL"
