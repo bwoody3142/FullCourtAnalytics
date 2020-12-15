@@ -7,7 +7,9 @@ This document explains how to replicate and successfully run the program using D
 * Once you have XAMPP downloaded and installed follow these instructions:
   * Hit the "Start" button next to "Apache"
   * Hit the "Start" button next to "MySQL"
-  * Hit the "Admin" button next to "MySQL" this should open a window in your web browser.
+  * Hit the "Admin" button next to "MySQL" this should open a window in your web browser called phpMyAdmin.
+  * In phpMyAdmin page click the "New" Button
+  !phpMyADmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpMyAdminNew.png)<br>
   * Copy the text of this file: <a href="https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcadatabase.sql" target="_blank">FCA Database</a>
 * Download and Install Docker Desktop (v2.5.0.0 works and has been tested)
   * Follow this link for the download:  <a href="https://www.docker.com/products/docker-desktop" target="_blank">https://www.docker.com/products/docker-desktop</a>
