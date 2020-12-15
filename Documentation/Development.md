@@ -9,7 +9,6 @@ This document explains how to replicate and successfully run the program using D
   * Hit the "Start" button next to "MySQL"
   * Hit the "Admin" button next to "MySQL" this should open a window in your web browser called phpMyAdmin.
   * In phpMyAdmin page click the "New" Button
-  <br>
   ![phpMyAdmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpMyAdminNew.png)<br>
   * Name the DataTable "fcadatabase" and hit the "Create" Button
   ![phpMyAdmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpMyAdminName.png)<br>
