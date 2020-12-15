@@ -11,6 +11,11 @@ This document explains how to replicate and successfully run the program using D
   * Copy the text of this file: <a href="https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcadatabase.sql" target="_blank">FCA Database</a>
   * In phpMyAdmin page click the "New" Button
   ![phpMyADmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpMyAdminNew.png)<br>
+  * Name the DataTable "fcadatabase" and hit the "Create" Button
+  ![phpMyADmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpMyName.png)<br>
+  ![phpMyADmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpMyAdminCreate.png)<br>
+  
+  
 * Download and Install Docker Desktop (v2.5.0.0 works and has been tested)
   * Follow this link for the download:  <a href="https://www.docker.com/products/docker-desktop" target="_blank">https://www.docker.com/products/docker-desktop</a>
   * If you have any issues installing Docker, you can use these to guide you:
