@@ -10,7 +10,7 @@ In the event that you see that icon click it then you will see "Log In".
 ## Sign Up
 - From here you will be able to create an account to use to log in
 - Simply type your First Name, Last Name, Team Name, City, Email, and Password to create an account.
-![Sign Up](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaSignUp.png)<br>
+![Sign Up](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaSignUp.PNG)<br>
 ## Log In
 - From here you will be on the Log in page.
 - There are currently two different accounts available a team account and an analyst account. 
