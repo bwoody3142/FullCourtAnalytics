@@ -49,7 +49,7 @@ In that event click the icon and the navbar will expand to show you the differen
 
 ## Upload
 - On the upload page you specify information relevant to the game you're uploading.
-- First enter the part after "v=" of the YouTube link of your game into the first text box. For example if you want to use this video(https://www.youtube.com/watch?v=Q6fflHD73sw) simply enter `Q6fflHD73sw` into the text box
+- First enter the YouTube link of the game you want highlighted.
 - In the second text box type in the name of your opponent. 
 - Then type the date of your game into the third box.
 - Check the box at the bottom if your team was the home team.
