@@ -19,7 +19,7 @@ In the event that you see that icon click it then you will see "Log In".
 
 - To access the Roster page click "Roster Management" on the navbar. 
 - To access the Upload page click "Upload" on the navbar. 
-![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaTeamHomeAnnotated.png)<br>
+![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/teamhomepage1.png)<br>
   Again if your browser window is smaller than full size you will see the icon below.
   
   
@@ -28,7 +28,7 @@ In that event click the icon and the navbar will expand to show you the differen
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button. 
 
-  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaSignOutAndHome.png)<br>
+  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/teamhomepage2.png)<br>
 
 
 ## Roster Management
