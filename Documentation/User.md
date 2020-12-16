@@ -56,11 +56,13 @@ In that event click the icon and the navbar will expand to show you the differen
 ## Analyst
 
 - On the analyst page you can access the Video Annotator page. To do this click the "Annotate" button next to anyone of the games.
+![Upload](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/analysthome1.png)<br>
 Again if your browser window is smaller than full size you will see the icon below. <br>
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/Navbar.png) <br>
 In that event click the icon and the navbar will expand to show you the different options.
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button.  
+![Upload](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/analysthome2.png)<br>
 
 ## Annotate Video
 - On the video annotation page you will see 7 different buttons corresponding to different stats in a game. These buttons are 2 point make, 2 point miss, 3 point make, 3 point miss, Rebound, Assist, and Turnover. 
