@@ -15,7 +15,7 @@ In the event that you see that icon click it then you will see "Log In".
 - From here you will be on the Log in page.
 - There are currently two different accounts available a team account and an analyst account. 
 - You may create your own account for acess or use the ones we provide below.
-- To access the team account enter: josh.user@fca.com into the email box. Then enter "pass" as the password then hit Login. Then head to the Team section of this manual.
+- To access the team account enter: josh.coach@fca.com into the email box. Then enter "pass" as the password then hit Login. Then head to the Team section of this manual.
 - To access the analyst account enter: josh.analyst@fca.com into the email box. Then enter "pass" as the password then hit Login. Then head to the Analyst section of this manual.
 - Depending on what email you put you will be sent to two different pages.<br>
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaLogin.PNG)<br>
