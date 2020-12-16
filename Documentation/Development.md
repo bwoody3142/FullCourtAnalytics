@@ -32,9 +32,11 @@ This document explains how to replicate and successfully run the program using D
 ### Testing and Running
 * Using the terminal on your computer, use the `cd` command to navigate where you cloned the repository to on your computer. 
 * After locating the folder named "FullCourtAnalyticsSrc", then use the `cd fca` command because the Dockerfile is located in the fca folder. 
+* Run the command `npm install`
 * After running that navigate to the previous directory by typing `cd ..`
 * Then, type `cd sever`
-After that, type `npm run devStart`
+* Type the command `npm install`
+* After that, type `npm run devStart`
 * Then, use the command `docker build -t fca .`
 * After it is finished building, use the command `docker run -p 3000:3000 -d fca`
 * Then, go to your browser (Google Chrome, Safari, FireFox, or Microsoft Edge), type in `localhost:3000` in the search bar. 
