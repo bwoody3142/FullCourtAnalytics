@@ -31,14 +31,12 @@ This document explains how to replicate and successfully run the program using D
  
 ### Testing and Running
 * Using the terminal on your computer, use the `cd` command to navigate where you cloned the repository to on your computer. 
-* After locating the folder named "FullCourtAnalyticsSrc", then use the `cd fca` command because the Dockerfile is located in the fca folder. 
-* Run the command `npm install`
-* After running that navigate to the previous directory by typing `cd ..`
-* Then, type `cd sever`
+* After locating the folder named "FullCourtAnalyticsSrc", type `cd sever`
 * Type the command `npm install`
 * After that, type `npm run devStart`
-* Then, use the command `docker build -t fca .`
-* After it is finished building, use the command `docker run -p 3000:3000 -d fca`
+* Once the server is up and running, the terminal should display `running on port 3001` 
+* Now you can run `cd ..` and `docker-compose build`
+* After docker is done building, you can then run `docker-compose up -d`
 * Then, go to your browser (Google Chrome, Safari, FireFox, or Microsoft Edge), type in `localhost:3000` in the search bar. 
 * The react app should start and you will be able to browse the webpage. To use the website, checkout the user manual at: <a href="https://github.com/bwoody3142/FullCourtAnalytics/blob/master/First%20Iteration%20Documentation/User.md" target="_blank">https://github.com/bwoody3142/FullCourtAnalytics/blob/master/First%20Iteration%20Documentation/User.md</a>
 
