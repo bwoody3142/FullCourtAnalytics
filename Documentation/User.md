@@ -52,9 +52,9 @@ In that event click the icon and the navbar will expand to show you the differen
 
 - Here you can view your players' stats from annotated games
 
- ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/newStatsClassic.PNG)<br>
+ ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/newStats1.PNG)<br>
  - You can toggle from Classic to Advanced for a more in depth look at your team's stats.
- ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/newStatsAdvanced.PNG)
+ ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/newStats2.PNG)
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button. 
 
