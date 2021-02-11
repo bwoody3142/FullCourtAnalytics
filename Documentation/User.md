@@ -86,6 +86,5 @@ In that event click the icon and the navbar will expand to show you the differen
 - Once this information has been filled out, all other buttons will be clickable. 
 - The other avaliable buttons allow from describing how exactly a possesion finished, for example "BLOB" (Baseline Out of Bounds), "2 PT Miss", "PNR Pop". 
 - Once you have customized the possesion/stat you connect it back to a player within the roster by clicking "Select Player".
-![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annotatorNEW2.PNG)<br>
 - If you would like to go back to the analyst page hit the "Back" button. 
 - If you would like to sign out hit the "Sign Out" button.  
