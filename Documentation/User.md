@@ -79,9 +79,8 @@ In that event click the icon and the navbar will expand to show you the differen
 
 ## Annotate Video
 - On the video annotation page you will see 7 different buttons corresponding to different stats in a game. These buttons are 2 point make, 2 point miss, 3 point make, 3 point miss, Rebound, Assist, and Turnover.
-![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/annotator1.png)<br>
+![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annotatorNEW.png)<br>
 - Clicking any of these buttons will prompt a red button to pop up to the left side of each position.
 - From here click the player you would like to add the stat total to if you'd like to add more stats to other players you may do so by clicking the button once again. 
-![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/annotator2.png)<br>
 - If you would like to go back to the analyst page hit the "Back" button. 
 - If you would like to sign out hit the "Sign Out" button.  
