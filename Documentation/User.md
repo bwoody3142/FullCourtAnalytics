@@ -2,7 +2,7 @@
 
 - Once you've ran the installation process through docker you should receive the splash page on localhost:3000.
 - From here you can proceed to the sign up page by hitting "Sign Up" in the upper right. You can also log in page by hitting "Log In" in the upper right corner.
-![Splash Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/fcaSplash.png)<br>
+![Splash Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/splash.PNG)<br>
 If your browser window is smaller than full size you will see this icon below. <br>
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/Navbar.png)<br>
 In the event that you see that icon click it then you will see "Log In".
@@ -10,7 +10,7 @@ In the event that you see that icon click it then you will see "Log In".
 ## Sign Up
 - From here you will be able to create an account to use to log in
 - Simply type your First Name, Last Name, Team Name, City, Email, and Password to create an account.
-![Sign Up](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaSignUp.PNG)<br>
+![Sign Up](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/signup.PNG)<br>
 ## Log In
 - From here you will be on the Log in page.
 - There are currently two different accounts available a team account and an analyst account. 
@@ -18,7 +18,7 @@ In the event that you see that icon click it then you will see "Log In".
 - To access the team account enter: josh.coach@fca.com into the email box. Then enter "pass" as the password then hit Login. Then head to the Team section of this manual.
 - To access the analyst account enter: josh.analyst@fca.com into the email box. Then enter "pass" as the password then hit Login. Then head to the Analyst section of this manual.
 - Depending on what email you put you will be sent to two different pages.<br>
-![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcaLogin.PNG)<br>
+![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/login.PNG)<br>
 
 ## Team
 
