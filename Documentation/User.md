@@ -48,12 +48,15 @@ In that event click the icon and the navbar will expand to show you the differen
 - If you would like to sign out hit the "Sign Out" button.
   ![Roster Buttons](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/rosterNEW2.png)<br>
 
-## Team Stats
+## Stats Center
 
 - Here you can view your players' stats from annotated games
+
+ ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/newStatsClassic.PNG)<br>
+ - You can toggle from Classic to Advanced for a more in depth look at your team's stats.
+ ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/newStatsAdvanced.PNG)
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button. 
- ![Team Stats](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/teamStats.png)<br>
 
 ## Upload
 - On the upload page you specify information relevant to the game you're uploading.
