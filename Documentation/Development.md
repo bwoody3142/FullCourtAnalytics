@@ -13,7 +13,7 @@ This document explains how to replicate and successfully run the program using D
   * Name the DataTable "fcadatabase" and hit the "Create" Button
   ![phpMyAdmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpMyAdminName.png)<br>
   ![phpMyAdmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpMyAdminCreate.png)<br>
-  * Copy the text of this file: <a href="https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcadatabase1.sql" target="_blank">FCA Database</a> and paste the text into the text window and hit the "Go" button in the bottom right
+  * Copy the text of this file: <a href="https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcadatabase2.sql" target="_blank">FCA Database</a> and paste the text into the text window and hit the "Go" button in the bottom right
   ![phpMyAdmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpLast.png)<br>
   * Your Database is now ready
   
