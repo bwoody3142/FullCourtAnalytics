@@ -24,8 +24,8 @@ In the event that you see that icon click it then you will see "Log In".
 
 - To access the Roster page click "Roster Management" on the navbar. 
 - To access the Upload page click "Upload" on the navbar. 
-- To access the Team Stats page click "Team Stats" on the navbar.
-![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/teamhomepage1.png)<br>
+- To access the Team Stats page click "Stats Center" on the navbar.
+![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/newTeamPage.PNG)<br>
   Again if your browser window is smaller than full size you will see the icon below.
   
   
