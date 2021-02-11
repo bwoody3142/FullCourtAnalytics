@@ -12,11 +12,9 @@ In the event that you see that icon click it then you will see "Log In".
 - Simply type your First Name, Last Name, Team Name, City, Email, and Password to create an account.
 ![Sign Up](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/signup.PNG)<br>
 ## Log In
-- From here you will be on the Log in page.
-- There are currently two different accounts available a team account and an analyst account. 
-- You may create your own account for acess or use the ones we provide below.
-- To access the team account enter: josh.coach@fca.com into the email box. Then enter "pass" as the password then hit Login. Then head to the Team section of this manual.
-- To access the analyst account enter: josh.analyst@fca.com into the email box. Then enter "pass" as the password then hit Login. Then head to the Analyst section of this manual.
+- From here you will be on the Log in page. 
+- Use the account you created to access a coach's account.
+- To access the analyst account enter: testfca6@gmail.com into the email box. Then enter "password12!" as the password then hit Login. Then head to the Analyst section of this manual.
 - Depending on what email you put you will be sent to two different pages.<br>
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/login.PNG)<br>
 
