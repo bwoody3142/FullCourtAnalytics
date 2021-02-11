@@ -72,7 +72,7 @@ In that event click the icon and the navbar will expand to show you the differen
 ## Analyst
 
 - On the analyst page you can access the Video Annotator page. To do this click the "Annotate" button next to anyone of the games.
-![Upload](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/analysthome1.png)<br>
+![Upload](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/newAnalystPage.PNG)<br>
 Again if your browser window is smaller than full size you will see the icon below. <br>
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/Navbar.png) <br>
 In that event click the icon and the navbar will expand to show you the different options.
