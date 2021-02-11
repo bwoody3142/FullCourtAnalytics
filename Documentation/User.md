@@ -1,7 +1,7 @@
 # Full Court Analytics User Manual
 
 - Once you've ran the installation process through docker you should receive the splash page on localhost:3000.
-- From here you can proceed to the sign up page by hitting "Sign Up" in the upper right. You can also log in page by hitting "Log In With Google" in the upper right corner to sign in with an existing Google account.
+- From here you can proceed to the sign up page by hitting "Sign Up" in the upper right. You can also log in page by hitting "Log In" in the upper right corner.
 ![Splash Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/fcaSplash.png)<br>
 If your browser window is smaller than full size you will see this icon below. <br>
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/Navbar.png)<br>
