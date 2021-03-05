@@ -18,7 +18,7 @@
 - From here you will be on the Log in page. 
 - Use the account you created to access a coach's account.
 - To access the analyst account enter: testfca6@gmail.com into the email box. Then enter "pass" as the password then hit Login. Then head to the Analyst section of this manual.
-- Depending on what email you put you will be sent to two different pages.<br>
+- The account you created will be a Coach account. The account provided above will give you access to an Analyst account.<br>
 ![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SignIn.PNG)<br>
 
 ## Team
