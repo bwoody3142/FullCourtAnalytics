@@ -1,5 +1,5 @@
-# Full Court Analytics Development (via Docker)
-This document explains how to replicate and successfully run the program using Docker.
+# Full Court Analytics Development
+This document explains how to replicate and successfully run the program with or without Docker.
 
 ### Cloning the Repository 
 * Clone this repository by using the following command:
