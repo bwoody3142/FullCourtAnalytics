@@ -10,9 +10,10 @@
 ![Features](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Features.PNG)<br>
 
 ## Sign Up
-- From here you will be able to create an account to use to log in
-- Simply type your First Name, Last Name, Team Name, City, Email, and Password to create an account.
-![Sign Up](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/signup.PNG)<br>
+- From here you will be able to create an account to use to log in.
+- You can only use a Gmail account to sign up.
+- Simply type your First Name, Last Name, Team Name, City, Email (Gmail only), and Password to create an account.
+![Sign Up](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SignUp.PNG)<br>
 ## Log In
 - From here you will be on the Log in page. 
 - Use the account you created to access a coach's account.
