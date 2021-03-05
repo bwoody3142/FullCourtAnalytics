@@ -1,44 +1,26 @@
 # Full Court Analytics Development (via Docker)
 This document explains how to replicate and successfully run the program using Docker.
 
-### Install Prerequisites
-* Download and Install XAMPP (v8.0.0-2 works and has been tested)
-  * Follow this link for the download:  <a href="https://www.apachefriends.org/index.html" target="_blank">https://www.apachefriends.org/index.html</a>
-* Once you have XAMPP downloaded and installed follow these instructions:
-  * Hit the "Start" button next to "Apache"
-  * Hit the "Start" button next to "MySQL"
-  * Hit the "Admin" button next to "MySQL" this should open a window in your web browser called phpMyAdmin.
-  * In phpMyAdmin page click the "New" Button
-  ![phpMyAdmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpMyAdminNew.png)<br>
-  * Name the DataTable "fcadatabase" and hit the "Create" Button
-  ![phpMyAdmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpMyAdminName.png)<br>
-  ![phpMyAdmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpMyAdminCreate.png)<br>
-  * Copy the text of this file: <a href="https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/fcadatabase3.sql" target="_blank">FCA Database</a> and paste the text into the text window and hit the "Go" button in the bottom right
-  ![phpMyAdmin](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/phpLast.png)<br>
-  * Your Database is now ready
-  
-  
+### Cloning the Repository 
+* Clone this repository by using the following command:
+  * `git clone https://github.com/bwoody3142/FullCourtAnalyticsSrc.git`
+
+##Setting Up Without Docker
+* After you have cloned the FCA repository, navigate to `FullCourtAnalyticsSrc/fca`
+* Runs the commands `npm install` and `npm start`.
+* The react app should start and you will be able to browse the webpage. To use the website, checkout the user manual at: <a href="https://github.com/bwoody3142/FullCourtAnalytics/blob/master/First%20Iteration%20Documentation/User.md" target="_blank">https://github.com/bwoody3142/FullCourtAnalytics/blob/master/First%20Iteration%20Documentation/User.md</a>
+
+##Setting Up With Docker
 * Download and Install Docker Desktop (v2.5.0.0 works and has been tested)
   * Follow this link for the download:  <a href="https://www.docker.com/products/docker-desktop" target="_blank">https://www.docker.com/products/docker-desktop</a>
   * If you have any issues installing Docker, you can use these to guide you:
     * Windows: [https://docs.docker.com/docker-for-windows/install/](https://docs.docker.com/docker-for-windows/install/)
     * Mac: [https://docs.docker.com/docker-for-mac/install/](https://docs.docker.com/docker-for-mac/install/)
   * Once you have Docker Desktop downloaded and installed, run the program on your computer and leave it running while completing the following steps.
-  
-### Cloning the Repository 
-* Clone this repository by using the following command:
-  * `git clone https://github.com/bwoody3142/FullCourtAnalyticsSrc.git`
- 
+   
 ### Testing and Running
 * Using the terminal on your computer, use the `cd` command to navigate where you cloned the repository to on your computer. 
-* After locating the folder named "FullCourtAnalyticsSrc", type `cd sever`
-* Type the command `npm install`
-* After that, type `npm run devStart`
-* Once the server is up and running, the terminal should display `running on port 3001` 
-* Now you can run `cd ..` and `docker-compose build`
+* After locating the folder named "FullCourtAnalyticsSrc", type `cd fca` and then, `docker-compose build` 
 * After docker is done building, you can then run `docker-compose up -d`
 * Then, go to your browser (Google Chrome, Safari, FireFox, or Microsoft Edge), type in `localhost:3000` in the search bar. 
 * The react app should start and you will be able to browse the webpage. To use the website, checkout the user manual at: <a href="https://github.com/bwoody3142/FullCourtAnalytics/blob/master/First%20Iteration%20Documentation/User.md" target="_blank">https://github.com/bwoody3142/FullCourtAnalytics/blob/master/First%20Iteration%20Documentation/User.md</a>
-
- 
-  
