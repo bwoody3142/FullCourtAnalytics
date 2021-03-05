@@ -5,7 +5,8 @@
 ![Splash Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SplashPage.PNG)<br>
 
 ## Features
-
+- Here you can read about the features of Full Court Analytics.
+- You can navigate to "Home", "Sign Up", and "Login" in the top right of the navbar.
 ![Features](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Features.PNG)<br>
 
 ## Sign Up
