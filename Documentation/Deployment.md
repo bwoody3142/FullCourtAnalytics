@@ -1,8 +1,5 @@
 # Deployment Documentation
 
-## Server 
-Any operating system that can run Docker, will work.
-
 ## File System
 You will need to be in the root folder of the project. This will be located at <code>FullCourtAnalyticsSrc</code>.
 
@@ -12,12 +9,6 @@ You will need to be in the root folder of the project. This will be located at <
 - Next, run `docker-compose up -d` to start your Docker container 
 - Now you can browse to `localhost:3000` in your browser to reach the web app
 - To stop the docker container, simply run `docker-compose down`
-
-## Starting/Stopping A Server Using XAMPP
-- Do the following after launching XAMPP
-  * Hit the "Start" button next to "Apache"
-  * Hit the "Start" button next to "MySQL"
-  * Hit the "Admin" button next to "MySQL" this should open a window in your web browser
   
 ## Common Docker Commands for Troubleshooting
 - To view all running Docker containers: `docker ps`
@@ -26,7 +17,6 @@ You will need to be in the root folder of the project. This will be located at <
 - To stop container: `docker stop {container id}`
 - To view images: `docker images`
 - To delete an image: `docker image rm {image name} -f`
-
 
 ## What To Do If You Are Having Problems With Starting You Docker Container
 - View all Docker containers and check to see that your `fca` container is running
