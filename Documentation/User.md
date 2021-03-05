@@ -4,7 +4,9 @@
 - From here you can read about the feature by clicking "Features" on the navbar. Proceed to the the sign up page by hitting "Sign Up" in the upper right. You can also log in page by hitting "Log In" in the upper right corner.
 ![Splash Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SplashPage.PNG)<br>
 
+## Features
 
+![Features](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Features.PNG)<br>
 
 ## Sign Up
 - From here you will be able to create an account to use to log in
