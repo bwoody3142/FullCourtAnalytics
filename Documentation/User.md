@@ -34,15 +34,12 @@
 
 
 ## Roster Management
-- To add a player to the roster, fill out the first name, last name, age, height, weight, grade, and number of the player.
-- Once everything is filled, then click "Add Player", to add them to the roster. 
-- You can add as many players as you'd like. 
-- A "Remove Player" button will be next to every player you have added to the roster.
-- Click the "Remove Player" button that's next to the player you want delete.
-   ![Roster Buttons](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/rosterNEW1.png)<br>
-- If you would like to go back to the team home page hit the "Back" button. 
-- If you would like to sign out hit the "Sign Out" button.
-  ![Roster Buttons](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/rosterNEW2.png)<br>
+ ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Roster.PNG)<br>
+- When you get to this page you will need to add at least 5 players.
+- To add a player click on the "Add/Edit Roster" Button.
+- Then click the "Add Player" button.
+- The "Add Player Form" will now appear fill out the players information and then click "Add Player"
+![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/RosterAddEdit.PNG)<br>
 
 ## Stats Center
 
