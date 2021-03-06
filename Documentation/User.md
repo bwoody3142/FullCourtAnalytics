@@ -34,15 +34,15 @@
 
 
 ## Roster Management
- ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Roster.PNG)<br>
+ ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/RosterNew.PNG)<br>
 - When you get to this page you will need to add at least 5 players.
 - To add a player click on the "Add/Edit Roster" Button.
 - Then click the "Add Player" button.
 - The "Add Player Form" will now appear fill out the players information and then click "Add Player"
-![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/AddPlayer.PNG)<br>
+![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/AddPlayerNew.PNG)<br>
 - Clicking the "Add/Edit Roster" button wiil also make a "Remove Player" button appear next to each player in your roster.
 - Click a player's "Remove Player" button to remove them from your roster page.
-![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/RosterAddEdit.PNG)<br>
+![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/RosterAddEditNew.PNG)<br>
 
 ## Stats Center
 
