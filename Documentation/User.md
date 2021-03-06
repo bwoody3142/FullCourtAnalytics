@@ -68,7 +68,7 @@
 ## Analyst
 
 - On the analyst page you can access the Video Annotator page. To do this click the "Annotate" button next to anyone of the games.
-![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/AnalystHome.PNG)<br>
+![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/AnalystHomeNew.PNG)<br>
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button.  
 
@@ -81,5 +81,7 @@
 ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Annotator3.PNG)<br>
 - Once you have customized the possesion/stat you connect it back to a player within the roster by clicking "Select Player".
 - You can substitute players by hitting the "Substitute" button in the top right above the players on the court.
+  ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Substitute1.PNG)<br>
+  ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Sub2.PNG)<br>
 - If you would like to go back to the analyst page hit the "Back" button. 
 - If you would like to sign out hit the "Sign Out" button.  
