@@ -68,7 +68,7 @@
 ## Analyst
 
 - On the analyst page you can access the Video Annotator page. To do this click the "Annotate" button next to anyone of the games.
-![Upload](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/newAnalystPage.PNG)<br>
+![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/AnalystHome.PNG)<br>
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button.  
 
