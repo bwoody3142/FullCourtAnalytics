@@ -81,6 +81,7 @@
 ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Annotator3.PNG)<br>
 - Once you have customized the possesion/stat you connect it back to a player within the roster by clicking "Select Player".
 - You can substitute players by hitting the "Substitute" button in the top right above the players on the court.
+- Select the player on the court and the player on the bench you'd like to sub, and click "Submit". 
   ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Substitute1.PNG)<br>
   ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Sub2.PNG)<br>
 - If you would like to go back to the analyst page hit the "Back" button. 
