@@ -72,9 +72,9 @@
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button.  
 
-## Annotate Video
+## Annotator Page
 - On the video annotation page you will see 40 different buttons corresponding to different stats in a game and possession information.
-![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annotatorNEW.png)<br>
+![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Annotator1.PNG)<br>
 - To get access to the scoring buttons, determine the scenario for the possession by selecting either "Off Pos", "Def Pos" or "Non Pos". Then select "Halfcourt" or "Transition".
 - Once this information has been filled out, all other buttons will be clickable. 
 - The other avaliable buttons allow from describing how exactly a possesion finished, for example "BLOB" (Baseline Out of Bounds), "2 PT Miss", "PNR Pop". 
