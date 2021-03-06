@@ -19,19 +19,15 @@
 - Use the account you created to access a coach's account.
 - To access the analyst account enter: testfca6@gmail.com into the email box. Then enter "pass" as the password then hit Login. Then head to the Analyst section of this manual.
 - The account you created will be a Coach account. The account provided above will give you access to an Analyst account.<br>
-![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SignIn.PNG)<br>
+![Sign In](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SignIn.PNG)<br>
 
-## Team
+## Team Home
 
 - To access the Roster page click "Roster Management" on the navbar. 
 - To access the Upload page click "Upload" on the navbar. 
 - To access the Team Stats page click "Stats Center" on the navbar.
-![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/newTeamPage.PNG)<br>
-  Again if your browser window is smaller than full size you will see the icon below.
+![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/TeamHome.PNG)<br>
   
-  
-![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/Navbar.png) <br>
-In that event click the icon and the navbar will expand to show you the different options.
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button. 
 
@@ -73,9 +69,6 @@ In that event click the icon and the navbar will expand to show you the differen
 
 - On the analyst page you can access the Video Annotator page. To do this click the "Annotate" button next to anyone of the games.
 ![Upload](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/newAnalystPage.PNG)<br>
-Again if your browser window is smaller than full size you will see the icon below. <br>
-![Navbar Icon](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/Navbar.png) <br>
-In that event click the icon and the navbar will expand to show you the different options.
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button.  
 
