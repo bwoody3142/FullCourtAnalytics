@@ -76,7 +76,7 @@
 
 ## Tracking Analytics
 
-![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/trackingAnalytics.PNG)<br><br>
+![Tracking Analytics](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/trackingAnalytics.PNG)<br><br>
 
 <br>
 
@@ -96,7 +96,9 @@
 - Finally, click the "Upload" button to upload your game film.
 - If you would like to go back to the team home page hit the "Back" button. 
 - If you would like to sign out hit the "Sign Out" button.
-![Upload](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/Upload.PNG)<br>
+
+
+![Upload](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/UploadFinal.PNG)<br>
 
 ## Roster Management
 
