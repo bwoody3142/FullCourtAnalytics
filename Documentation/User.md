@@ -10,12 +10,13 @@
 ![Features](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Features.PNG)<br>
 
 ## Sign Up
-- From here you will be able to create an account to use to log in.
+- To access the **Sign Up** page in the top right of the Splash Page.
+- On this page will be able to create an account to use to log in.
 - You can only use a Gmail account to sign up.
 - Simply type your First Name, Last Name, Team Name, City, Email (Gmail only), and Password to create an account.
-![Sign Up](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SignUp.PNG)<br><br>
+![Sign Up](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SignUpFinal.PNG)<br><br>
 ## Log In
-- To get to the **Login Page** click **Login** in the top right hand corner of the splash page.
+- To get to the **Login Page** click **Login** in the top right hand corner of the Splash Page.
 - Use the account you created on the **Sign Up** page to access a coach's account.
 - To access an analyst account enter: testfca6@gmail.com into the email box. Then enter "analyst" as the password then hit Login. Then head to the Analyst section of this manual.
 - The account you created will be a Coach account. The account provided above will give you access to an Analyst account.<br>
