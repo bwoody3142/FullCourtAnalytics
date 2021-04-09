@@ -130,7 +130,7 @@
 - Clicking the "Remove Player" icon will delete the player from the roster.
 - Clicking the "Edit Player" icon will make the "Edit Player Form" appear.
 - Here you can change the desired info for each player.
-- Hit the **Update Player** button to save your changes.
+- Hit the **Update Player** button to save the changes you made.
 
 
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/rosterEdit.png)<br>
