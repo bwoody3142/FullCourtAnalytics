@@ -24,11 +24,15 @@
 ## Team Home
 - Upon logging in a Coach will be brought to this page.
 - Here a Coach can see what games are pending/have been annotate.
+- 
+<br>
 ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/TeamHome2.PNG)<br>
 <br>
 - To view an annotated game click "View Analytics"
 
- ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/viewAnalytics2.png)<br>  
+ ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/viewAnalytics2.png)<br>
+ 
+ - Clicking "View Analytics" will take you to its corresponding "Game Center"
 
 
   
