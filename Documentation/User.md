@@ -22,10 +22,10 @@
 ![Sign In](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/LoginNew.PNG)<br>
 
 ## Team Home
+- Upon logging in a Coach will be brought to this page.
+- Here a Coach can see what games are pending/have been annotate.
+- To view an annotated game click "View Analytics"  
 
-- To access the Roster page click "Roster Management" on the navbar. 
-- To access the Upload page click "Upload" on the navbar. 
-- To access the Team Stats page click "Stats Center" on the navbar.
 ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/TeamHome2.PNG)<br>
   
 - If you would like to go back to splash page hit the "Home" button. 
