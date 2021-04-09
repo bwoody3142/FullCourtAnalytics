@@ -60,13 +60,12 @@
 
 ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarStatsCenter.png)<br><br>
 - To get to the **Stats Center** click **Stats Center** on the navbar.
-- Here you can view your players' stats from annotated games.
+- Here you can view your players' stats from all annotated games.
 
  ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/StatsCenter2.PNG)<br><br>
- - You can toggle between Classic and Advanced stats by selecting either option in the top left of the stats chart.
- - You can also view various Shooting stats.
-- If you would like to go back to splash page hit the *Home* button. 
-- If you would like to sign out hit the *Sign Out* button.
+ - You can toggle between **Classic**, **Advanced**, **Efficiencies**, **Shooting**, **Time - Offensive**,  and **Time - Deffensive** stats by selecting the option above the table.
+- Be sure to scroll down after selecting which stats you want to view, there are more stats at the bottom.
+ ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/StatsCenterCont.PNG)<br><br>
 
 ## Lineups
 
