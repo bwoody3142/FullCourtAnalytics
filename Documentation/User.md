@@ -106,6 +106,7 @@
 - To add a player click on the "Add/Edit Roster" Button.
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/rosterAddEdit.png)<br><br>
 - Then click the "Add Player" button.
+![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/rosterAdd.png)<br><br>
 - The "Add Player Form" will now appear fill out the players information and then click "Add Player"
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/AddPlayerNew.PNG)<br>
 - Clicking the "Add/Edit Roster" button wiil also make a "Remove Player" button appear next to each player in your roster.
