@@ -31,8 +31,8 @@
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/viewAnalytics2.png)<br>
  
  - Clicking "View Analytics" will take you to its corresponding "Game Center"
- ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbaraccount.png)<br>
  - To sign out click on "Account" in the top right hand corner
+ ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbaraccount.png)<br><br>
  - Then click "Sign Out" in the drop down
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarSignOut.png)<br>
 
