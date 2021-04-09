@@ -101,7 +101,7 @@
 - Clicking **Account** will bring up a dropdown menu that contains **Roster Management** and **Sign Out** 
 - Click **Roster Management** go to the **Roster Manaegment** page
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarManageRoster.png)<br><br>
- ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/RosterMan.PNG)<br>
+ ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Roster2.PNG)<br>
 - When you get to this page you will need to add at least 5 players.
 - To add a player click on the "Add/Edit Roster" Button.
 - Then click the "Add Player" button.
