@@ -120,6 +120,9 @@
 - The "Add Player Form" will now appear.
 - Fill out the players information and then click "Add Player".
 
+![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/addPlayer.png)<br><br>
+
+
 
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/AddPlayerNew.PNG)<br>
 
