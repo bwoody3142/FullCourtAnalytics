@@ -27,6 +27,7 @@
 ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/TeamHome2.PNG)<br>
 <br>
 - To view an annotated game click "View Analytics"
+-
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/viewAnalytics2.png)<br>  
 
 
