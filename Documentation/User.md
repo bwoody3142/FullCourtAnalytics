@@ -78,7 +78,7 @@
 
 <br>
 
-## Plyer Efficiency
+## Play Efficiencies
 
 
 <br>
