@@ -36,6 +36,8 @@
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbaraccount.png)<br><br>
  - Then click **Sign Out** in the drop down.
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarSignOut.png)<br><br>
+ ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarTeamHome.png)<br><br>
+ - To get back to this page click the Full Court Analytics logo in the top left hand corner
 
   
 
