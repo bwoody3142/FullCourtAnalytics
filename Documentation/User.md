@@ -65,6 +65,7 @@
  ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/StatsCenter2.PNG)<br><br>
  - You can toggle between **Classic**, **Advanced**, **Efficiencies**, **Shooting**, **Time - Offensive**,  and **Time - Deffensive** stats by selecting the option above the table.
 - Be sure to scroll down after selecting which stats you want to view, there are more stats at the bottom.
+<br>
  ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/StatsCenterCont.PNG)<br><br>
 
 ## Lineups
