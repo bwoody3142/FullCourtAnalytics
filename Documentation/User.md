@@ -26,7 +26,7 @@
 - To access the Roster page click "Roster Management" on the navbar. 
 - To access the Upload page click "Upload" on the navbar. 
 - To access the Team Stats page click "Stats Center" on the navbar.
-![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/TeamHomeNew2.PNG)<br>
+![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/TeamHome2.PNG)<br>
   
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button. 
