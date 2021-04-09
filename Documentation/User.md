@@ -102,8 +102,9 @@
 - Click **Roster Management** go to the **Roster Manaegment** page
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarManageRoster.png)<br><br>
  ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Roster2.PNG)<br>
-- When you get to this page you will need to add at least 5 players.
+- When you get to this page you will need to add at least 5 players. You can't get a game annotated if you have less than 5 players.
 - To add a player click on the "Add/Edit Roster" Button.
+![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/rosterAddEdit.png)<br><br>
 - Then click the "Add Player" button.
 - The "Add Player Form" will now appear fill out the players information and then click "Add Player"
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/AddPlayerNew.PNG)<br>
