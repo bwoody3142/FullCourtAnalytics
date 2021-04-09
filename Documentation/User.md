@@ -30,11 +30,11 @@
 
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/viewAnalytics2.png)<br><br>
  
- - Clicking **View Analytics** will take you to its corresponding **Game Center**
+ - Clicking **View Analytics** will take you to its corresponding **Game Center**.
  <br><br>
- - To sign out click on **Account** in the top right hand corner
+ - To sign out click on **Account** in the top right hand corner.
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbaraccount.png)<br><br>
- - Then click **Sign Out** in the drop down
+ - Then click **Sign Out** in the drop down.
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarSignOut.png)<br><br>
 
   
@@ -44,11 +44,10 @@
 ![Game Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/GameCenter.PNG)<br><br>
 
 - Here you can view stats from your annotated games.
-- You can view the stats in three ways: **Box Score**, **Offensive Advanced**, and **Defensive Advanced** 
+- You can view the stats in three ways: **Box Score**, **Offensive Advanced**, and **Defensive Advanced**.
 
-![Game Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Gameselect.png)<br><br>
-
-- To switch to different game's stats select the game in the **Game Select** bar on the left 
+![Game Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Gameselect.png)<br>
+- To switch to different game's stats select the game in the **Game Select** bar on the left. 
 
 ![Game Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/GameCenterCont.PNG)<br><br>
 
