@@ -1,12 +1,12 @@
 # Full Court Analytics User Manual
 
 - Once you've ran the installation process through docker you should receive the splash page on localhost:3000.
-- From here you can read about the feature by clicking "Features" on the navbar. Proceed to the the sign up page by hitting "Sign Up" in the upper right. You can also log in page by hitting "Log In" in the upper right corner.
+- From here you can read about the feature by clicking *Features* on the navbar. Proceed to the the sign up page by hitting *Sign Up* in the upper right. You can also log in page by hitting *Log In* in the upper right corner.
 ![Splash Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SplashPage.PNG)<br>
 
 ## Features
 - Here you can read about the features of Full Court Analytics.
-- You can navigate to "Home", "Sign Up", and "Login" in the top right of the navbar.
+- You can navigate to *Home*, *Sign Up*, and *Login* in the top right of the navbar.
 ![Features](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Features.PNG)<br>
 
 ## Sign Up
@@ -26,14 +26,14 @@
 - Here a Coach can see what games are pending/have been annotate.
 ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/TeamHome2.PNG)<br>
 <br>
-- To view an annotated game click "View Analytics"
+- To view an annotated game click *View Analytics*
 
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/viewAnalytics2.png)<br>
  
- - Clicking "View Analytics" will take you to its corresponding "Game Center"
- - To sign out click on "Account" in the top right hand corner
+ - Clicking *View Analytics* will take you to its corresponding *Game Center*
+ - To sign out click on *Account* in the top right hand corner
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbaraccount.png)<br><br>
- - Then click "Sign Out" in the drop down
+ - Then click *Sign Out* in the drop down
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarSignOut.png)<br>
 
   
@@ -48,8 +48,8 @@
  ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/StatsCenter.PNG)<br>
  - You can toggle between Classic and Advanced stats by selecting either option in the top left of the stats chart.
  - You can also view various Shooting stats.
-- If you would like to go back to splash page hit the "Home" button. 
-- If you would like to sign out hit the "Sign-Out" button.
+- If you would like to go back to splash page hit the *Home* button. 
+- If you would like to sign out hit the *Sign Out* button.
 
 ## Lineups
 
