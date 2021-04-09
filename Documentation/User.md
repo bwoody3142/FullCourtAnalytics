@@ -14,7 +14,7 @@
 - On this page will be able to create an account to use to log in.
 - You can only use a Gmail account to sign up.
 - Simply type your First Name, Last Name, Team Name, City, Email (Gmail only), and Password to create an account.
-![Sign Up](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SignUpFinal.PNG)<br><br>
+
 ## Log In
 - To get to the **Login Page** click **Login** in the top right hand corner of the Splash Page.
 - Use the account you created on the **Sign Up** page to access a coach's account.
