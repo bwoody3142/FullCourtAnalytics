@@ -29,8 +29,12 @@
 ![Sign In](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/LoginFinal.PNG)<br><br>
 
 ## Team Home
+
+
 - Upon logging in a Coach will be brought to this page.
 - Here a Coach can see what games are pending/have been annotate.
+
+
 ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/TeamHome2.PNG)<br><br>
 
 - To view an annotated game click **View Analytics**
@@ -50,6 +54,8 @@
 
 
 ## Game Center
+
+
 ![Game Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/GameCenter.PNG)<br><br>
 
 - Here you can view stats from your annotated games.
