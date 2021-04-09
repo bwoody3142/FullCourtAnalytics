@@ -51,6 +51,8 @@
 
 ![Game Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/GameCenterCont.PNG)<br><br>
 
+- Scrolling down on the page reveals scoring and stats per quarter as well as **Four Factors** stats.
+
 
 ## Stats Center
 
