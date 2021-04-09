@@ -97,20 +97,35 @@
 ## Roster Management
 
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbaraccount.png)<br>
+
 - To access Roster Management you will need to click on "Account" in the top right hand corner.
 - Clicking **Account** will bring up a dropdown menu that contains **Roster Management** and **Sign Out** 
 - Click **Roster Management** go to the **Roster Manaegment** page
+
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarManageRoster.png)<br><br>
  ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Roster2.PNG)<br>
+ 
+ 
 - When you get to this page you will need to add at least 5 players. You can't get a game annotated if you have less than 5 players.
 - To add a player click on the "Add/Edit Roster" Button.
+
+
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/rosterAddEdit.png)<br><br>
+
 - Then click the "Add Player" button.
+
+
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/rosterAdd.png)<br><br>
 - The "Add Player Form" will now appear fill out the players information and then click "Add Player"
+
+
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/AddPlayerNew.PNG)<br>
+
+
 - Clicking the "Add/Edit Roster" button wiil also make a "Remove Player" button appear next to each player in your roster.
 - Click a player's "Remove Player" button to remove them from your roster page.
+
+
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/RosterAddEditNew.PNG)<br>
 
 ## Analyst
