@@ -2,7 +2,7 @@
 
 - Once you've ran the installation process through docker you should receive the splash page on localhost:3000.
 - From here you can read about the feature by clicking **Features** on the navbar. Proceed to the the sign up page by hitting **Sign Up** in the upper right. You can also log in page by hitting **Log In** in the upper right corner.
-![Splash Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SplashPage.PNG)<br>
+![Splash Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SplashPage.PNG)<br><br>
 
 ## Features
 - Here you can read about the features of Full Court Analytics.
@@ -13,13 +13,13 @@
 - From here you will be able to create an account to use to log in.
 - You can only use a Gmail account to sign up.
 - Simply type your First Name, Last Name, Team Name, City, Email (Gmail only), and Password to create an account.
-![Sign Up](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SignUp.PNG)<br>
+![Sign Up](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SignUp.PNG)<br><br>
 ## Log In
 - From here you will be on the Log in page. 
 - Use the account you created to access a coach's account.
 - To access the analyst account enter: testfca6@gmail.com into the email box. Then enter "pass" as the password then hit Login. Then head to the Analyst section of this manual.
 - The account you created will be a Coach account. The account provided above will give you access to an Analyst account.<br>
-![Sign In](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/LoginNew.PNG)<br>
+![Sign In](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/LoginNew.PNG)<br><br>
 
 ## Team Home
 - Upon logging in a Coach will be brought to this page.
@@ -28,14 +28,14 @@
 
 - To view an annotated game click **View Analytics**
 
- ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/viewAnalytics2.png)<br>
+ ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/viewAnalytics2.png)<br><br>
  
  - Clicking **View Analytics** will take you to its corresponding **Game Center**
  <br><br>
  - To sign out click on **Account** in the top right hand corner
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbaraccount.png)<br><br>
  - Then click **Sign Out** in the drop down
- ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarSignOut.png)<br>
+ ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarSignOut.png)<br><br>
 
   
 
