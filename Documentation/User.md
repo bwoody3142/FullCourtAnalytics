@@ -44,9 +44,11 @@
 ![Game Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/GameCenter.PNG)<br><br>
 
 - Here you can view stats from your annotated games.
-- You can view the stats in three ways, **Box Score**, **Offensive Advanced**, and **Defensive Advanced** 
+- You can view the stats in three ways: **Box Score**, **Offensive Advanced**, and **Defensive Advanced** 
 
 ![Game Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Gameselect.png)<br><br>
+
+- To switch to different game's stats select the game in the **Game Select** bar on the left 
 
 ![Game Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/GameCenterCont.PNG)<br><br>
 
