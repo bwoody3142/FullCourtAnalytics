@@ -58,7 +58,9 @@
 
 ## Stats Center
 
-- Here you can view your players' stats from annotated games
+![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarStatsCenter.png)<br><br>
+- To get to the **Stats Center** click **Stats Center** on the navbar.
+- Here you can view your players' stats from annotated games.
 
  ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/StatsCenter2.PNG)<br><br>
  - You can toggle between Classic and Advanced stats by selecting either option in the top left of the stats chart.
