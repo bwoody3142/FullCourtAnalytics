@@ -123,12 +123,13 @@
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/addPlayer.png)<br><br>
 
 
+- Clicking the "Add/Edit Roster" will also reveal an "Edit Player" icon and a "Remove Player" icon next to existing players on the table. 
 
-![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/AddPlayerNew.PNG)<br>
+![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/editremove.png)<br><br>
 
+- Clicking the "Remove Player" icon will delete the player from the roster.
+- Clicking the "Edit Player" icon will make the "Edit Player Form" appear.
 
-- Clicking the "Add/Edit Roster" button wiil also make a "Remove Player" button appear next to each player in your roster.
-- Click a player's "Remove Player" button to remove them from your roster page.
 
 
 ![Roster](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/RosterAddEditNew.PNG)<br>
