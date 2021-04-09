@@ -92,10 +92,9 @@
 - First enter the YouTube link of the game you want highlighted.
 - In the second text box type in the name of your opponent. 
 - Then type the date of your game into the third box.
-- Check the box at the bottom if your team was the home team.
+- Check whether the your team was home or away.
 - Finally, click the "Upload" button to upload your game film.
-- If you would like to go back to the team home page hit the "Back" button. 
-- If you would like to sign out hit the "Sign Out" button.
+- Once you've uploaded your game the annotation process can begin.
 
 
 ![Upload](https://github.com/bwoody3142/FullCourtAnalytics/raw/master/AuxiliaryFiles/UploadFinal.PNG)<br>
