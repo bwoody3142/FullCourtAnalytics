@@ -194,7 +194,7 @@
 ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoClicked.PNG)<br>
 
 
-- Once you have customized the possesion/stat you connect it back to a player within the roster by clicking "Select Player".
+- Once you have customized the possesion/stat you connect it back to a player (on your team or the opponent's team) or to the team by clicking "Select Player", "Opponent", or "Team".
 
 ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/selectPlayer.PNG)<br>
 
