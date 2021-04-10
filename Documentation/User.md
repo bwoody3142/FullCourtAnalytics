@@ -72,6 +72,8 @@
 ## Play By Play
 
 
+- Here you can view where and when stats happened in a game.
+
 ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/pbp.PNG)<br><br>
   
 
