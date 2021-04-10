@@ -163,10 +163,13 @@
 
 ![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystAnno.png)<br><br>
 
-- If you would like to go back to splash page hit the "Home" button. 
-- If you would like to sign out hit the "Sign-Out" button. 
+![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystSignOut.png)<br><br>
 
-- To return to this page click on the Full Court Analytics logo in the top left of the navbar
+
+
+- If you would like to sign out hit the "Sign-Out" button in the top right corner. 
+
+- To return to this page click on the Full Court Analytics logo in the top left of the navbar.
 
 ![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystHomereturn.png)<br><br>
 
