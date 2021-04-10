@@ -89,6 +89,9 @@
 
 ## Tracking Analytics
 
+- Here you can view the **Tracking Analytics**
+- You can toggle the settings between **Post Touch** and **Paint Touch**
+
 ![Tracking Analytics](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/trackingAnalytics.PNG)<br><br>
 
 <br>
