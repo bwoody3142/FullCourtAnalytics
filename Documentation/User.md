@@ -156,7 +156,13 @@
 ## Analyst Home
 
 - On the analyst page you can access the Video Annotator page. To do this click the "Annotate" button next to anyone of the games.
-![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystHomeF.PNG)<br>
+![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystHomeF.PNG)<br><br>
+
+
+- To Start annotating a game click the **Annotate** Button
+
+![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystAnno.png)<br><br>
+
 - If you would like to go back to splash page hit the "Home" button. 
 - If you would like to sign out hit the "Sign-Out" button.  
 
