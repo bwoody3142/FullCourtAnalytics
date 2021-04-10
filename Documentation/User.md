@@ -159,7 +159,9 @@
 ![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystHomeF.PNG)<br><br>
 
 
-- To start annotating a game click the **Annotate** Button
+- To start annotating a game click the **Annotate** Button.
+
+
 - The **Annotate** Button will take you to the **Annotator** page.
 
 ![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystAnno.png)<br><br>
@@ -171,6 +173,8 @@
 - If you would like to sign out hit the "Sign-Out" button in the top right corner. 
 
 - To return to this page click on the Full Court Analytics logo in the top left of the navbar.
+
+
 
 ![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystHomereturn.png)<br><br>
 
