@@ -179,8 +179,12 @@
 ![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystHomereturn.png)<br><br>
 
 ## Annotator Page
-- On the video annotation page you will see 40 different buttons corresponding to different stats in a game and possession information.
-![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Annotator1.PNG)<br>
+- On the **Annotator** page you will see several different buttons corresponding to different stats in a game as well as possession information.
+
+
+![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoBase.PNG)<br><br>
+
+
 - To get access to the scoring buttons, determine the scenario for the possession by selecting either "Off Pos", "Def Pos" or "Non Pos". Then select "Halfcourt" or "Transition".
 - Once this information has been filled out, all other buttons will be clickable. 
 - The other avaliable buttons allow from describing how exactly a possesion finished, for example "BLOB" (Baseline Out of Bounds), "2 PT Miss", "PNR Pop". 
