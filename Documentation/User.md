@@ -160,6 +160,7 @@
 
 
 - To start annotating a game click the **Annotate** Button
+- The **Annotate** Button will take you to the **Annotator** page.
 
 ![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystAnno.png)<br><br>
 
