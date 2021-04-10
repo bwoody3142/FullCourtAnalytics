@@ -113,6 +113,20 @@
 
 ![Play Efficiencies](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navPE.png)<br><br>
 
+- Here you can view your play efficiencies.
+- You can toggle between **Action Player** and **Shot Player** stats by clicking on which one you'd like to view
+
+
+![Play Efficiencies](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/peAction.PNG)<br><br>
+
+
+- **Action Player** sorts by the type of plays run.
+
+
+![Play Efficiencies](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/peShot.PNG)<br><br>
+
+
+- **Shot Player** sorts by the type of shots created.
 
 
 <br>
