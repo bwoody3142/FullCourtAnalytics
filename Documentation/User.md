@@ -258,7 +258,7 @@
 - On the **Annotator** page you will see several different buttons corresponding to different stats in a game as well as possession information.
 
 
-![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoBase.PNG)<br><br>
+![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoFinal.PNG)<br><br>
 
 
 - To get access to the scoring buttons, determine the scenario for the possession by selecting either "Off Pos", "Def Pos" or "Non Pos". Then select "Halfcourt" or "Transition".
