@@ -51,7 +51,7 @@
 - Here a Coach can see what games are pending/have been annotate.
 
 
-![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/TeamHomeFinal.PNG)<br><br>
+
 
 - To view an annotated game click **View Analytics**
 
