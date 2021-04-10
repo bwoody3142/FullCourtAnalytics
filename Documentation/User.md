@@ -91,6 +91,13 @@
 ![Lineups](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navLineups.png)<br><br>
 <br>
 
+
+![Lineups](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/lineups.PNG)<br><br>
+<br>
+
+
+- On this page you can view your team's lineups and stats with those lineups
+
 ## Tracking Analytics
 
 - Click **Tracking Analytics** on the navbar to view Tracking Analytics.
