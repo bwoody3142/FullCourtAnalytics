@@ -203,3 +203,7 @@
   ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoSub.png)<br><br>
   ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoSub2.png)<br><br>
 
+- Once you're done annotating a game click **Finish Game** to complete the annotating process.
+- This sends the game stats to the corresponding coach so they can now view the stats.
+
+ ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoFinish.png)<br><br>
