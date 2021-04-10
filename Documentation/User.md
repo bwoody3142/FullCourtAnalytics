@@ -267,12 +267,12 @@
 - The other avaliable buttons allow from describing how exactly a possesion finished, for example "BLOB" (Baseline Out of Bounds), "2 PT Miss", "PNR Pop". 
 
 
-![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoClicked.PNG)<br>
+![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/anno2.PNG)<br>
 
 
 - Once you have customized the possesion/stat you connect it back to a player (on your team or the opponent's team) or to the team by clicking "Select Player", "Opponent", or "Team".
 
-![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/selectPlayer.PNG)<br>
+![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/anno3.PNG)<br>
 
 - You can substitute players by hitting the "Substitute" button in the top right above the players on the court.
 - Select the player on the court and the player on the bench you'd like to sub, and click "Submit". 
