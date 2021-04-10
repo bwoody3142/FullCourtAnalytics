@@ -102,7 +102,6 @@
 
 ![Lineups](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/luFilter.png)<br><br>
 <br>
-
 - You can sort the Lineup Filters by **Four Factors**, **Box Score**, **Offensive Advanced**, and **Defensive Advanced** 
 
 ## Tracking Analytics
