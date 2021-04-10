@@ -159,12 +159,16 @@
 ![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystHomeF.PNG)<br><br>
 
 
-- To Start annotating a game click the **Annotate** Button
+- To start annotating a game click the **Annotate** Button
 
 ![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystAnno.png)<br><br>
 
 - If you would like to go back to splash page hit the "Home" button. 
-- If you would like to sign out hit the "Sign-Out" button.  
+- If you would like to sign out hit the "Sign-Out" button. 
+
+- To return to this page click on the Full Court Analytics logo in the top left of the navbar
+
+![Analyst Home](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analystHomereturn.png)<br><br>
 
 ## Annotator Page
 - On the video annotation page you will see 40 different buttons corresponding to different stats in a game and possession information.
