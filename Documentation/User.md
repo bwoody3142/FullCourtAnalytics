@@ -99,6 +99,10 @@
 - On this page you can view your team's lineups and stats with those lineups.
 - You can view players by cycling between **Five Man**, **Four Man**, **Three Man**, **Two Man**, and **On/Off**
 
+
+![Lineups](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/luFilter.png)<br><br>
+<br>
+
 - You can sort the Lineup Filters by **Four Factors**, **Box Score**, **Offensive Advanced**, and **Defensive Advanced** 
 
 ## Tracking Analytics
