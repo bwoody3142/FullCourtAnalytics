@@ -54,8 +54,9 @@
 ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/TeamHomeFinal.PNG)<br><br>
 
 - To view an annotated game click **View Analytics**
+- To view the play by play of a game click **Play By Play**
 
- ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/viewAnalytics2.png)<br><br>
+ ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/analytics.png)<br><br>
  
  - Clicking **View Analytics** will take you to its corresponding **Game Center**.
  <br><br>
