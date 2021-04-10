@@ -85,12 +85,21 @@
 
 ## Lineups
 
+- Click **Lineups** on the navbar to view your Lineups.
+
+
+![Lineups](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navLineups.png)<br><br>
 <br>
 
 ## Tracking Analytics
 
+- Click **Tracking Analytics** on the navbar to view Tracking Analytics.
+
+
+![Tracking Analytics](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navTA.png)<br><br>
+
 - Here you can view the **Tracking Analytics**
-- You can toggle the settings between **Post Touch** and **Paint Touch**
+- You can toggle the settings between **Post Touch** and **Paint Touch**.
 
 ![Tracking Analytics](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/trackingAnalytics.PNG)<br><br>
 
@@ -99,11 +108,23 @@
 ## Play Efficiencies
 
 
+- Click **Play Efficiencies** on the navbar to view Play Efficiencies.
+
+
+![Play Efficiencies](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navPE.png)<br><br>
+
 
 
 <br>
 
 ## Upload
+
+- Click **Upload** on the navbar to go to the Upload page.
+
+
+![Upload](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navUpload.png)<br><br>
+
+
 - On the upload page you specify information relevant to the game you're uploading.
 - First enter the YouTube link of the game you want highlighted.
 - In the second text box type in the name of your opponent. 
