@@ -189,11 +189,18 @@
 - The annotator will also start and stop a clip with every event that happens within the annotated game.
 - Once this information has been filled out, all other buttons will be clickable. 
 - The other avaliable buttons allow from describing how exactly a possesion finished, for example "BLOB" (Baseline Out of Bounds), "2 PT Miss", "PNR Pop". 
+
+
 ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoClicked.PNG)<br>
+
+
 - Once you have customized the possesion/stat you connect it back to a player within the roster by clicking "Select Player".
+
+![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/selectPlayer.PNG)<br>
+
 - You can substitute players by hitting the "Substitute" button in the top right above the players on the court.
 - Select the player on the court and the player on the bench you'd like to sub, and click "Submit". 
-  ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Substitute1.PNG)<br>
+  ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoSub.png)<br>
   ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Sub2.PNG)<br>
 - If you would like to go back to the analyst page hit the "Back" button. 
 - If you would like to sign out hit the "Sign Out" button.  
