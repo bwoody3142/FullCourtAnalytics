@@ -66,6 +66,8 @@
  ![Team Home Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/navbarTeamHome.png)<br><br>
  - To get back to this page click the Full Court Analytics logo in the top left hand corner
 
+
+## Play By Play
   
 
 
@@ -94,6 +96,8 @@
  ![Stats Center](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/StatsCenter2.PNG)<br><br>
  - You can toggle between **Classic**, **Advanced**, **Efficiencies**, **Shooting**, **Time - Offensive**,  and **Time - Deffensive** stats by selecting the option above the table.
 - Be sure to scroll down after selecting which stats you want to view, there are more stats at the bottom.
+
+
 
 
 
