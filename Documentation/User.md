@@ -2,7 +2,7 @@
 
 - Once you've ran the installation process through docker you should receive the splash page on localhost:3000.
 - From here you can read about the feature by clicking **Features** on the navbar. Proceed to the the sign up page by hitting **Sign Up** in the upper right. You can also log in page by hitting **Log In** in the upper right corner.
-![Splash Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SplashPage.PNG)<br><br>
+![Splash Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/SplashPageFinal.PNG)<br><br>
 
 ## Features
 - Here you can read about the features of Full Court Analytics.
