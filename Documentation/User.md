@@ -200,7 +200,6 @@
 
 - You can substitute players by hitting the "Substitute" button in the top right above the players on the court.
 - Select the player on the court and the player on the bench you'd like to sub, and click "Submit". 
-  ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoSub.png)<br>
-  ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/Sub2.PNG)<br>
-- If you would like to go back to the analyst page hit the "Back" button. 
-- If you would like to sign out hit the "Sign Out" button.  
+  ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoSub.png)<br><br>
+  ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoSub2.png)<br><br>
+
