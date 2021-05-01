@@ -131,6 +131,13 @@
 <br>
 - You can sort the Lineup Filters by **Four Factors**, **Box Score**, **Offensive Advanced**, and **Defensive Advanced** 
 
+## Shot Charts
+
+- Here you can view your team's Shot Chart Stats as well as your opponent's.
+
+
+![Shot Chart Page](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/shotChartPage.PNG)<br><br>
+
 ## Tracking Analytics
 
 - Click **Tracking Analytics** on the navbar to view Tracking Analytics.
@@ -276,9 +283,10 @@
 
 ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/anno3.PNG)<br>
 
-- You can substitute players by hitting the "Substitute" button in the top right above the players on the court.
+- You can undo the most recently finished possession by cliking the "Undo" button in the top left above the players on the court.
+- You can substitute players by hitting the "Substitute" button just to the right of the undo button.
 - Select the player on the court and the player on the bench you'd like to sub, and click "Submit". 
-  ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoSub.png)<br><br>
+  ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/subAndUndo.PNG)<br><br>
   ![Annotator](https://github.com/bwoody3142/FullCourtAnalytics/blob/master/AuxiliaryFiles/annoSub2.png)<br><br>
 
 - Once you're done annotating a game click **Finish Game** to complete the annotating process.
